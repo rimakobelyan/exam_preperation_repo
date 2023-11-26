@@ -1,0 +1,79 @@
+1699892256984	geckodriver	INFO	Listening on 127.0.0.1:58223
+1699892260036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58224" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileHF94p0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699892261207	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699892261417	Marionette	INFO	Listening on port 58232
+WebDriver BiDi listening on ws://127.0.0.1:58224
+Read port: 58232
+1699892261964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58224/devtools/browser/7c3810b8-9ff9-4e9b-a0a6-77296e932062
+1699892282192	Marionette	INFO	Stopped listening on port 58232
+JavaScript warning: https://s2.go-mpulse.net/boomerang/FNR7L-CZUHT-QTY2E-EDRYP-ZAEQY, line 10: Script terminated by timeout at:
+BOOMR_plugins_errors_wrap@https://s2.go-mpulse.net/boomerang/FNR7L-CZUHT-QTY2E-EDRYP-ZAEQY:10:182539
+
+Dynamically enable window occlusion 1
+1699893450158	geckodriver	INFO	Listening on 127.0.0.1:53969
+1699893453379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53970" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilelAefCR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699893455301	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699893455522	Marionette	INFO	Listening on port 53977
+WebDriver BiDi listening on ws://127.0.0.1:53970
+Read port: 53977
+1699893455960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53970/devtools/browser/e0b8a241-2cf2-4d0d-961d-121f483eb49d
+1699893467083	Marionette	INFO	Stopped listening on port 53977
+JavaScript warning: https://d169bbxks24g2u.cloudfront.net/6pm.html?pageType=landing, line 1: Script terminated by timeout at:
+@https://d169bbxks24g2u.cloudfront.net/6pm.html?pageType=landing:1:466
+@https://d169bbxks24g2u.cloudfront.net/6pm.html?pageType=landing:1:468
+
+Dynamically enable window occlusion 1
+1699893964629	geckodriver	INFO	Listening on 127.0.0.1:54115
+1699893967702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54116" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile7ipeWC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699893968592	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699893968953	Marionette	INFO	Listening on port 54124
+WebDriver BiDi listening on ws://127.0.0.1:54116
+Read port: 54124
+1699893969431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54116/devtools/browser/41ddfeb1-095b-4a19-9fe6-3763b85cbe08
+1699893981482	Marionette	INFO	Stopped listening on port 54124
+JavaScript warning: https://s2.go-mpulse.net/boomerang/FNR7L-CZUHT-QTY2E-EDRYP-ZAEQY, line 10: Script terminated by timeout at:
+BOOMR_plugins_errors_wrap@https://s2.go-mpulse.net/boomerang/FNR7L-CZUHT-QTY2E-EDRYP-ZAEQY:10:182539
+
+Dynamically enable window occlusion 1
+1699894250335	geckodriver	INFO	Listening on 127.0.0.1:54240
+1699894253368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54241" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileVl7XTO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699894253762	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699894253858	Marionette	INFO	Listening on port 54248
+WebDriver BiDi listening on ws://127.0.0.1:54241
+Read port: 54248
+1699894254085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54241/devtools/browser/550b7f36-a3cb-46b3-8af3-dc360c12a518
+JavaScript warning: https://s.btstatic.com/tag.js#site=GSAJd7e&referrer=https%3A%2F%2Fd169bbxks24g2u.cloudfront.net%2F6pm.html%3FpageType%3Dhome, line 17: Script terminated by timeout at:
+e@https://s.btstatic.com/tag.js#site=GSAJd7e&referrer=https%3A%2F%2Fd169bbxks24g2u.cloudfront.net%2F6pm.html%3FpageType%3Dhome:17:45
+f@https://s.btstatic.com/tag.js#site=GSAJd7e&referrer=https%3A%2F%2Fd169bbxks24g2u.cloudfront.net%2F6pm.html%3FpageType%3Dhome:17:62
+get@https://s.btstatic.com/tag.js#site=GSAJd7e&referrer=https%3A%2F%2Fd169bbxks24g2u.cloudfront.net%2F6pm.html%3FpageType%3Dhome:17:402
+L/c.get@https://s.btstatic.com/tag.js#site=GSAJd7e&referrer=https%3A%2F%2Fd169bbxks24g2u.cloudfront.net%2F6pm.html%3FpageType%3Dhome:18:494
+ga@https://s.btstatic.com/tag.js#site=GSAJd7e&referrer=https%3A%2F%2Fd169bbxks24g2u.cloudfront.net%2F6pm.html%3FpageType%3Dhome:28:200
+ia/g.serverURL@https://s.btstatic.com/tag.js#site=GSAJd7e&referrer=https%3A%2F%2Fd169bbxks24g2u.cloudfront.net%2F6pm.html%3FpageType%3Dhome:39:337
+a@https://s.btstatic.com/tag.js#site=GSAJd7e&referrer=https%3A%2F%2Fd169bbxks24g2u.cloudfront.net%2F6pm.html%3FpageType%3Dhome:40:101
+ia/g.primary@https://s.btstatic.com/tag.js#site=GSAJd7e&referrer=https%3A%2F%2Fd169bbxks24g2u.cloudfront.net%2F6pm.html%3FpageType%3Dhome:40:190
+k.initializeSite@https://s.btstatic.com/tag.js#site=GSAJd7e&referrer=https%3A%2F%2Fd169bbxks24g2u.cloudfront.net%2F6pm.html%3FpageType%3Dhome:69:265
+ma@https://s.btstatic.com/tag.js#site=GSAJd7e&referrer=https%3A%2F%2Fd169bbxks24g2u.cloudfront.net%2F6pm.html%3FpageType%3Dhome:58:280
+k.configureNewSites/<@https://s.btstatic.com/tag.js#site=GSAJd7e&referrer=https%3A%2F%2Fd169bbxks24g2u.cloudfront.net%2F6pm.html%3FpageType%3Dhome:69:34
+r@https://s.btstatic.com/tag.js#site=GSAJd7e&referrer=https%3A%2F%2Fd169bbxks24g2u.cloudfront.net%2F6pm.html%3FpageType%3Dhome:3:427
+k.configureNewSites@https://s.btstatic.com/tag.js#site=GSAJd7e&referrer=https%3A%2F%2Fd169bbxks24g2u.cloudfront.net%2F6pm.html%3FpageType%3Dhome:68:465
+@https://s.btstatic.com/tag.js#site=GSAJd7e&referrer=https%3A%2F%2Fd169bbxks24g2u.cloudfront.net%2F6pm.html%3FpageType%3Dhome:70:16
+@https://s.btstatic.com/tag.js#site=GSAJd7e&referrer=https%3A%2F%2Fd169bbxks24g2u.cloudfront.net%2F6pm.html%3FpageType%3Dhome:70:167
+
+1699894264756	Marionette	INFO	Stopped listening on port 54248
+Dynamically enable window occlusion 1

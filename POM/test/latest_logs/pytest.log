@@ -1,0 +1,30 @@
+21:49:54 DEBUG Selenium Manager binary found at: C:\Users\Solicy\PycharmProjects\pythonProject\pythonProjectFinal\venv\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe
+21:49:54 DEBUG Executing process: C:\Users\Solicy\PycharmProjects\pythonProject\pythonProjectFinal\venv\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --debug --output json
+21:49:55 DEBUG chromedriver not found in PATH
+21:49:55 DEBUG chrome detected at C:\Program Files\Google\Chrome\Application\chrome.exe
+21:49:55 DEBUG Running command: wmic datafile where name='C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe' get Version /value
+21:49:55 DEBUG Output: "\r\r\n\r\r\nVersion=119.0.6045.160\r\r\n\r\r\n\r\r\n\r"
+21:49:55 DEBUG Detected browser: chrome 119.0.6045.160
+21:49:55 DEBUG Required driver: chromedriver 119.0.6045.105
+21:49:55 DEBUG chromedriver 119.0.6045.105 already in the cache
+21:49:55 DEBUG Driver path: C:\Users\Solicy\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+21:49:55 DEBUG Browser path: C:\Program Files\Google\Chrome\Application\chrome.exe
+21:49:55 DEBUG Using driver at: C:\Users\Solicy\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+21:49:55 DEBUG Started executable: `C:\Users\Solicy\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe` in a child process with pid: 15200
+21:49:55 DEBUG POST http://localhost:51933/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "browserVersion": null, "goog:chromeOptions": {"extensions": [], "binary": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "args": ["--start-maximized"]}}}}
+21:49:55 DEBUG Starting new HTTP connection (1): localhost:51933
+21:49:56 DEBUG http://localhost:51933 "POST /session HTTP/1.1" 200 0
+21:49:56 DEBUG Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"119.0.6045.160","chrome":{"chromedriverVersion":"119.0.6045.105 (38c72552c5e15ba9b3117c0967a0fd105072d7c6-refs/branch-heads/6045@{#1103})","userDataDir":"C:\\Users\\Solicy\\AppData\\Local\\Temp\\scoped_dir15200_488810406"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:51937"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"721b188e95e38210e22197d822d4c570"}} | headers=HTTPHeaderDict({'Content-Length': '884', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+21:49:56 DEBUG Finished Request
+21:49:56 DEBUG POST http://localhost:51933/session/721b188e95e38210e22197d822d4c570/timeouts {"implicit": 10000}
+21:49:56 DEBUG http://localhost:51933 "POST /session/721b188e95e38210e22197d822d4c570/timeouts HTTP/1.1" 200 0
+21:49:56 DEBUG Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+21:49:56 DEBUG Finished Request
+21:49:56 DEBUG POST http://localhost:51933/session/721b188e95e38210e22197d822d4c570/url {"url": "https://test.io/"}
+21:49:57 DEBUG http://localhost:51933 "POST /session/721b188e95e38210e22197d822d4c570/url HTTP/1.1" 200 0
+21:49:57 DEBUG Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+21:49:57 DEBUG Finished Request
+21:49:58 DEBUG DELETE http://localhost:51933/session/721b188e95e38210e22197d822d4c570 {}
+21:49:58 DEBUG http://localhost:51933 "DELETE /session/721b188e95e38210e22197d822d4c570 HTTP/1.1" 200 0
+21:49:58 DEBUG Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+21:49:58 DEBUG Finished Request
