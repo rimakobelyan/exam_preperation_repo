@@ -1,6 +1,6 @@
 import pytest
-from conftest import get_driver
-from POM.lib.helpers import Helpers
+
+
 
 @pytest.mark.usefixtures('get_driver')
 class TestTwoPagesFunctions:
